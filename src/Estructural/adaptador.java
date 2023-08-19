@@ -10,6 +10,6 @@ public class adaptador implements  adaptadorGeo {
 
     @Override
     public void procesarMapas() {
-    tipokml.procesarKml();
+        tipokml.procesarKml();
     }
 }
